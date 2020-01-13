@@ -21,7 +21,7 @@ while l:
       		j= rnum(a,b)
       	else:
       		x=False
-      print("Число: " + j)
+      print("Число: " + str(j))
    if c==4:
       	l=False
    if c==2:
